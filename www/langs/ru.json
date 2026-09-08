@@ -37,7 +37,7 @@
     "tr-custom-downloads": "Настраиваемая загрузка",
     "tr-building-image": "Генерация образа прошивки",
     "tr-download-imagebuilder": "Скачивание архива ImageBuilder",
-    "tr-title": "OpenWrt — Выбор прошивки",
+    "tr-title": "Выбор прошивки OpenWrt",
     "tr-packages": "Установленные пакеты",
     "tr-defaults": "Скрипт для запуска при первой загрузке (uci-defaults)",
     "tr-latest-releases": "Последний",
