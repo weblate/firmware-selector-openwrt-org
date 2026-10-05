@@ -1,1 +1,10 @@
-{}
+{
+    "tr-latest-releases": "Ən son",
+    "tr-feedback-link": "Rəy",
+    "tr-server-link": "Bütün yükləmələr",
+    "tr-not-found": "Model tapılmadı!",
+    "tr-load": "Cihazınız üçün OpenWrt firmware-ni yükləyin",
+    "tr-links": "Əlaqələr",
+    "tr-title": "OpenWrt firmware seçicisi",
+    "tr-message": "Cihazınızın adını və ya modelini yazın, sonra sabit bir quruluşu və ya gecəlik \"snapshot\" quruluşunu seçin."
+}
